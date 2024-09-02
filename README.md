@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sadiq</h1>
-<h3 align="center">Diligent software engineer with 6+ years experience in Mobile/Software development.</h3>
+<h3 align="center">Experience Blockchain Engineer.</h3>
 
 - 🌱 Builing an open economy on **Dex, Defi and AI**
 
