@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sadiq</h1>
 <h3 align="center">Diligent software engineer with 6+ years experience in Mobile/Software development.</h3>
 
-- 🔭 I’m currently working on [AI Language Learning App](https://github.com/sadeeqrabiu/Bingo-learn)
-
-- 🌱 I’m currently learning **BI, Data Science, Big Data**
+- 🌱 Builing an open economy on **Dex, Defi and AI**
 
 - 💬 Ask me about **Software Development**
 
