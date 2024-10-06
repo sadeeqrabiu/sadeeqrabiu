@@ -3,8 +3,6 @@
 
 - 🌱 Builing an open economy on **Dex, Defi and AI**
 
-- 💬 Ask me about **Web3 and AI**
-
 - 📫 How to reach me **rsadiqra@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
